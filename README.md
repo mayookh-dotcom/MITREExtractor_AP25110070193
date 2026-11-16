@@ -1,6 +1,6 @@
 # Automatic MITRE ATT&CK Technique Extraction from Threat Reports
 
-Section: SEC-G | Team Size: 5 Members | Registration ID: AP25110070193
+Section: SEC-G | Registration ID: AP25110070193
 
 ## Folder Structure
 - Dataset/ : Annotated CTI threat report test passages and sample input files
