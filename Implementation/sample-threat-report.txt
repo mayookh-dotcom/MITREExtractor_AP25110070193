@@ -1,0 +1,12 @@
+
+The attacker gained access to the system and
+executed malicious PowerShell commands.
+
+The attacker used Mimikatz for credential dumping
+and accessed LSASS memory.
+
+The attacker also created a scheduled task
+to maintain persistence.
+
+HTTP beacon communication was observed
+between the compromised system and the C2 server.
